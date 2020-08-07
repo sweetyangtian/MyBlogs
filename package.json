@@ -12,6 +12,7 @@
   "devDependencies": {
     "html2canvas": "^1.0.0-rc.5",
     "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.3",
     "scss-loader": "^0.0.1",
     "vuepress": "^1.5.3"
   },

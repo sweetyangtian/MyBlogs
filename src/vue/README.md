@@ -84,6 +84,6 @@
 
 [vue-bloom-menu](https://github.com/MingSeng-W/vue-bloom-menu)：悬浮菜单，点击散开选项。
 
-![预览效果](../images/menu.png)
+![预览效果](/menu.png)
 
 [vuepress](https://vuepress.vuejs.org/zh/guide/)：Vue 驱动的静态网站生成器。
